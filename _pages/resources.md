@@ -12,6 +12,11 @@ These are resources recommended in the class.
 * Heuristics for Scientific Writing (a Machine Learning Perspective) - Zachary C. Lipton [URL](http://approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/)
 * You and Your Research - Richard Hamming [URL](https://john.cs.olemiss.edu/~hcc/researchMethods/notes/hamming.pdf)
 
+# Critical Reading
+
+* How to become good at peer review: A guide for young scientists -Jennifer Raff [URL](https://violentmetaphors.com/2013/12/13/how-to-become-good-at-peer-review-a-guide-for-young-scientists/)
+* Hints for Reviewing Empirical Work in Software Engineering -Walter F. Tichy [URL](https://link.springer.com/article/10.1023%2FA%3A1009844119158?LI=true)
+
 ## Books
 
 * “Constructing a Good Dissertation”, Erik Hofstee, 2011, EPE Publishers.
