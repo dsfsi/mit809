@@ -11,6 +11,7 @@ These are resources recommended in the class.
 * “How to do good research, get it published in SIGKDD and get it cited!”, Eamonn Keogh,  SIGKDD 2009 Tutorial. [URL](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf)
 * Heuristics for Scientific Writing (a Machine Learning Perspective) - Zachary C. Lipton [URL](http://approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/)
 * You and Your Research - Richard Hamming [URL](https://john.cs.olemiss.edu/~hcc/researchMethods/notes/hamming.pdf)
+* Novelist Cormac McCarthy’s tips on how to write a great science paper - [URL](https://www.nature.com/articles/d41586-019-02918-5) , [PDF](https://github.com/dsfsi/mit809/raw/master/_pages/how_to_write_paper.pdf)
 
 # Critical Reading
 
