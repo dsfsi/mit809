@@ -8,9 +8,17 @@ For this class, a number of readings are used to reinforce concepts
 
 ## Papers for in class discussion
 
-* For 2018 and 2019 we used the best papers from the KDD conference.
+* For 2018, 2019, 2020 we used the best papers from the KDD conference.
 
 ## Papers for critical reading
+
+### 2020
+
+*  Sentiment analysis is not solved! Assessing and probing sentiment classification [URL](https://arxiv.org/abs/1906.05887v1)
+• Exploiting Convolutional Representations for Multiscale Human Settlement Detection [URL](https://arxiv.org/abs/1707.05683v1)
+• Traffic congestion anomaly detection and prediction using deep learning [URL](https://arxiv.org/abs/2006.13215v1)
+• Exploring the weather impact on bike sharing usage through a clustering analysis [URL](https://arxiv.org/abs/2008.07249v1)
+• Cross Lingual Cross Corpus Speech Emotion Recognition [URL](https://arxiv.org/abs/2003.07996v1)
 
 ### 2019
 * Preparation of Improved Turkish DataSet for Sentiment Analysis in Social
@@ -28,4 +36,5 @@ for digital health [URL](https://arxiv.org/abs/1811.11920)
 
 ## Video
 
+* Rethe and DSFSI seminar on Scientific Writing [URL](https://www.youtube.com/watch?v=vx7HtJIawxY)
 * Et Plagieringseventyr, University of Bergen UiB [URL](https://www.youtube.com/watch?v=Mwbw9KF-ACY) - Plagiarism
