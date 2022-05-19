@@ -6,7 +6,7 @@ permalink: /resources/
 
 These are resources recommended in the class.
 
-## Presentaitions/Readings from other Researchers
+## Presentations/Readings from other Researchers
 
 * How to write a research paper - Deep Learning Indaba 2018 - [PDF](https://github.com/dsfsi/mit809/raw/master/_pages/research-paper-writing.pdf)
 * “How to do good research, get it published in SIGKDD and get it cited!”, Eamonn Keogh,  SIGKDD 2009 Tutorial. [URL](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf)
